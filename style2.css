@@ -1,0 +1,13 @@
+.table{
+    background-color:aliceblue;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.988);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    background-color: aliceblue;
+    font-size: small;
+    font-weight: 500;
+    font-family: serif;
+}
